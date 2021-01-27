@@ -30,7 +30,7 @@ I think that's enough.
   text-indent: 0em;
   text-justify: inter-word;">
   <strong>E:</strong> <a href="mailto:james.hepworth@uct.ac.za">james.hepworth@uct.ac.za</a> (UCT)<br>
-  <strong>E:</strong> <a href="mailto:james@hepworth.systems">james@hepworth.systems</a> (Consulting)<br>
+  <strong>E:</strong> <a href="mailto:james@opusmeum.dev">james@opusmeum.dev</a> (Consulting)<br>
   <strong>L:</strong> <a href="www.linkedin.com/in/james-h-hepworth]"> www.linkedin.com/in/james-h-hepworth</a>
 </div>
 
