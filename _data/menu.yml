@@ -7,6 +7,6 @@
 - title: Author
   url: /author.html
 
-- title: Tags         
-    Categories: '/blog/categories/' }
-    Tags: '/blog/tags/' }
+- Tags:         
+    - Categories: '/blog/categories/' 
+    - Tags: '/blog/tags/' 
