@@ -3,7 +3,7 @@ layout: post
 title: Author
 ---
 
-<img src="/assets/james_hepworth.jpeg" style="width:300px;height:300px;float:left;">I am a Mechatronics Lecturer in the Department of Mechanical Engineering at the University of Cape Town (UCT). I am also a PhD candidate with the Department of Electrical Engineering at UCT. I have an [MSc. (Eng)](https://github.com/opus-meum/masters) in Mechanical Engineering (with Distinction) and a BSc. (Eng) in Electro-Mechanical Engineering (with First-Class Honors).
+<img src="https://raw.githubusercontent.com/opus-meum/opus-meum.github.io/master/assets/images/james_hepworth.jpeg" style="width:300px;height:300px;float:left;padding-right:10px">I am a Mechatronics Lecturer in the Department of Mechanical Engineering at the University of Cape Town (UCT). I am also a PhD candidate with the Department of Electrical Engineering at UCT. I have an [MSc. (Eng)](https://github.com/opus-meum/masters) in Mechanical Engineering (with Distinction) and a BSc. (Eng) in Electro-Mechanical Engineering (with First-Class Honors).
 
 I am interested primarily in engineering education and love the teaching aspects of my job. From a techincal interests perspective, embedded systems are the flavour of the month for me. My research consists of the development of a novel, environmental sensor network aimed for deployment in the Southern Ocean surrounding Antarctica.<br><br>
 I've developed a curriculum framework for the [Mechanical and Mechatronics Engineering](http://www.mecheng.uct.ac.za/mec/ug/bsc-elec-mech-eng) degree at UCT.<br>
@@ -31,7 +31,7 @@ I think that's enough.
   text-justify: inter-word;">
   <strong>E:</strong> <a href="mailto:james.hepworth@uct.ac.za">james.hepworth@uct.ac.za</a> (UCT)<br>
   <strong>E:</strong> <a href="mailto:james@opusmeum.dev">james@opusmeum.dev</a> (Consulting)<br>
-  <strong>L:</strong> <a href="www.linkedin.com/in/james-h-hepworth"> www.linkedin.com/in/james-h-hepworth</a>
+  <strong>L:</strong> <a href="https://www.linkedin.com/in/james-h-hepworth"> www.linkedin.com/in/james-h-hepworth</a>
 </div>
 
 

@@ -18,7 +18,7 @@ email: james@hepworth.systems
 description: >- # this means to ignore newlines until "baseurl:"
   To read and understand.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://opus-meum.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://readings.opusmeum.dev" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/simul_c_logo_DC3_icon.ico
 github_username: opus-meum
 
