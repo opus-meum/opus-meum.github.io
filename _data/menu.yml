@@ -8,5 +8,5 @@
   url: /author.html
 
 - title: Tags         
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    Categories: '/blog/categories/' }
+    Tags: '/blog/tags/' }
