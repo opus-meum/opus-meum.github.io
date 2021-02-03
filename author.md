@@ -3,7 +3,7 @@ layout: post
 title: Author
 ---
 
-I am a Mechatronics Lecturer in the Department of Mechanical Engineering at the University of Cape Town (UCT). I am also a PhD candidate with the Department of Electrical Engineering at UCT. I have an [MSc. (Eng)](https://github.com/opus-meum/masters) in Mechanical Engineering (with Distinction) and a BSc. (Eng) in Electro-Mechanical Engineering (with First-Class Honors).
+<img src="/assests/james_hepworth.jpeg" style="width:500px;height:500px;float:left;">I am a Mechatronics Lecturer in the Department of Mechanical Engineering at the University of Cape Town (UCT). I am also a PhD candidate with the Department of Electrical Engineering at UCT. I have an [MSc. (Eng)](https://github.com/opus-meum/masters) in Mechanical Engineering (with Distinction) and a BSc. (Eng) in Electro-Mechanical Engineering (with First-Class Honors).
 
 I am interested primarily in engineering education and love the teaching aspects of my job. From a techincal interests perspective, embedded systems are the flavour of the month for me. My research consists of the development of a novel, environmental sensor network aimed for deployment in the Southern Ocean surrounding Antarctica.<br><br>
 I've developed a curriculum framework for the [Mechanical and Mechatronics Engineering](http://www.mecheng.uct.ac.za/mec/ug/bsc-elec-mech-eng) degree at UCT.<br>
