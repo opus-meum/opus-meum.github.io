@@ -2,11 +2,10 @@
   url: /about.html
 
 - title: Source
-  url: https://github.com/opus-meum/pus-meum.github.io
+  url: https://github.com/opus-meum/opus-meum.github.io
 
 - title: Author
   url: /author.html
 
 - title: Tags
-  Categories: '/blog/categories/' 
-  Tags: '/blog/tags/' 
+  url: /blog/tags/ 
