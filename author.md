@@ -18,7 +18,7 @@ I am interested primarily in engineering education and love the teaching aspects
 <div style = "text-align: justify;
   text-indent: 0em;
   text-justify: inter-word;">
-I've developed a curriculum framework for the [Mechanical and Mechatronics Engineering](http://www.mecheng.uct.ac.za/mec/ug/bsc-elec-mech-eng) degree at UCT.</div><br>
+I've developed a curriculum framework for the <a href="http://www.mecheng.uct.ac.za/mec/ug/bsc-elec-mech-eng">Mechanical and Mechatronics Engineering</a> degree at UCT.</div><br>
 I've developed robotics curriculum and a [low cost educational robot](https://i.imgur.com/zl1sJ1g.jpg) for [CodeSpace Academy](https://www.codespace.co.za).<br>
 I've consulted for [Melisizwe Computer Lab Project](https://melisizwe.co.za).<br>
 I've written firmware for [Engineer Simplicity](http://www.engineersimplicity.com).<br>
